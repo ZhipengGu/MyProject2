@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+    "dexEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+    "dexEntry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+    "dexEntry": "There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people."
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+    "dexEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely."
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+    "dexEntry": "When it swings its burning tail, it elevates the air temperature to unbearably high levels."
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": ["Fire", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+    "dexEntry": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+    "dexEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+    "dexEntry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler."
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+    "dexEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "type": ["Bug"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+    "dexEntry": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "type": ["Bug"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+    "dexEntry": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell."
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "type": ["Bug", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+    "dexEntry": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off."
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "type": ["Bug", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+    "dexEntry": "It eats its weight in leaves every day. It fends off attackers with the needle on its head."
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "type": ["Bug", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+    "dexEntry": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "type": ["Bug", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+    "dexEntry": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food."
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+    "dexEntry": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+    "dexEntry": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+    "dexEntry": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed."
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+    "dexEntry": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day."
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/20.png",
+    "dexEntry": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola."
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+    "dexEntry": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
+    "dexEntry": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution."
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+    "dexEntry": "Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+    "dexEntry": "This POKéMON has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible."
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+    "dexEntry": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state."
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+    "dexEntry": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size."
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+    "dexEntry": "It can roll its body into a ball. It moves through the desert by rolling at high speeds."
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/28.png",
+    "dexEntry": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day."
+  },
+  {
+    "id": 29,
+    "name": "Nidoran-f",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+    "dexEntry": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+    "dexEntry": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others."
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type": ["Poison", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/31.png",
+    "dexEntry": "Its body is cover­ ed with needle- like scales. It never shows signs of shrinking from any attack."
+  },
+  {
+    "id": 32,
+    "name": "Nidoran-m",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/32.png",
+    "dexEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/33.png",
+    "dexEntry": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body."
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "type": ["Poison", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+    "dexEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "type": ["Fairy"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+    "dexEntry": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often."
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "type": ["Fairy"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+    "dexEntry": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains."
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+    "dexEntry": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails."
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png",
+    "dexEntry": "It has long been said that each of the nine tails embody an enchanted power. A long-lived NINETALES will have fur that shines like gold."
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "type": ["Normal", "Fairy"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+    "dexEntry": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy."
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "type": ["Normal", "Fairy"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/40.png",
+    "dexEntry": "It sheds its fine fur when the seasons change. The fur is gathered and spun into a luxurious yarn."
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "type": ["Poison", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+    "dexEntry": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down."
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "type": ["Poison", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+    "dexEntry": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood."
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+    "dexEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+    "dexEntry": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+    "dexEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "type": ["Bug", "Grass"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+    "dexEntry": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras."
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "type": ["Bug", "Grass"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+    "dexEntry": "It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places."
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "type": ["Bug", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/48.png",
+    "dexEntry": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness."
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "type": ["Bug", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+    "dexEntry": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+    "dexEntry": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/51.png",
+    "dexEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles."
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/52.png",
+    "dexEntry": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/53.png",
+    "dexEntry": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon’s surrounding vicinity. It becomes docile if grabbed by the whiskers."
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/54.png",
+    "dexEntry": "It has mystical powers but doesn’t recall that it has used them. That is why it always looks puzzled."
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/55.png",
+    "dexEntry": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow."
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/56.png",
+    "dexEntry": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason."
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/57.png",
+    "dexEntry": "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however."
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/58.png",
+    "dexEntry": "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age."
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png",
+    "dexEntry": "The sight of it running over 6,200 miles in a single day and night has captivated many people."
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/60.png",
+    "dexEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it."
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/61.png",
+    "dexEntry": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful."
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "type": ["Water", "Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/62.png",
+    "dexEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting."
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/63.png",
+    "dexEntry": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep."
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/64.png",
+    "dexEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction."
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/65.png",
+    "dexEntry": "Its brain cells multiply continually until it dies. As a result, it remembers everything."
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/66.png",
+    "dexEntry": "It likes food that’s highly nutritious because its instincts drive it to build muscle efficiently."
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/67.png",
+    "dexEntry": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable."
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/68.png",
+    "dexEntry": "It unleashes megaton-level punches that send opponents flying clear over the horizon."
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/69.png",
+    "dexEntry": "BELLSPROUT’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron."
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/70.png",
+    "dexEntry": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground."
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "type": ["Grass", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/71.png",
+    "dexEntry": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid."
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "type": ["Water", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/72.png",
+    "dexEntry": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it."
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "type": ["Water", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/73.png",
+    "dexEntry": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison."
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "type": ["Rock", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/74.png",
+    "dexEntry": "It is impossible to distinguish from rocks. It slams against others in contests of hardness."
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "type": ["Rock", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/75.png",
+    "dexEntry": "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This POKéMON eats its way through a ton of rocks on a daily basis."
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "type": ["Rock", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/76.png",
+    "dexEntry": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves."
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/77.png",
+    "dexEntry": "About an hour after birth, its fiery mane and tail grow out, giving it an impressive appearance."
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/78.png",
+    "dexEntry": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps."
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "type": ["Water", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/79.png",
+    "dexEntry": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten."
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "type": ["Water", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+    "dexEntry": "The SHELLDER that latches onto SLOWPOKE’s tail is said to feed on the host’s leftover scraps."
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "type": ["Electric", "Steel"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/81.png",
+    "dexEntry": "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines."
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "type": ["Electric", "Steel"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/82.png",
+    "dexEntry": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage."
+  },
+  {
+    "id": 83,
+    "name": "Farfetchd",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/83.png",
+    "dexEntry": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest."
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/84.png",
+    "dexEntry": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep."
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "type": ["Normal", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/85.png",
+    "dexEntry": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger."
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/86.png",
+    "dexEntry": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "type": ["Water", "Ice"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/87.png",
+    "dexEntry": "In snow, the pure white coat covering its body obscures it from predators."
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/88.png",
+    "dexEntry": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path."
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/89.png",
+    "dexEntry": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse."
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/90.png",
+    "dexEntry": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell."
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "type": ["Water", "Ice"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/91.png",
+    "dexEntry": "For protection, it uses its harder- than-diamonds shell. It also shoots spikes from the shell."
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "type": ["Ghost", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/92.png",
+    "dexEntry": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "type": ["Ghost", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/93.png",
+    "dexEntry": "Because of its ability to slip through block walls, it is said to be from another dimension."
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type": ["Ghost", "Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+    "dexEntry": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type": ["Rock", "Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/95.png",
+    "dexEntry": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds."
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/96.png",
+    "dexEntry": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/97.png",
+    "dexEntry": "As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off."
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/98.png",
+    "dexEntry": "KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these POKéMON can be seen squabbling with each other over territory."
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/99.png",
+    "dexEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim."
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/100.png",
+    "dexEntry": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode."
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/101.png",
+    "dexEntry": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion."
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "type": ["Grass", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/102.png",
+    "dexEntry": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds."
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "type": ["Grass", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/103.png",
+    "dexEntry": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish."
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/104.png",
+    "dexEntry": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears."
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "type": ["Ground"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/105.png",
+    "dexEntry": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones."
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/106.png",
+    "dexEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick."
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "type": ["Fighting"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/107.png",
+    "dexEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting."
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/108.png",
+    "dexEntry": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking."
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/109.png",
+    "dexEntry": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon."
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "type": ["Poison"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/110.png",
+    "dexEntry": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart."
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "type": ["Ground", "Rock"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/111.png",
+    "dexEntry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "type": ["Ground", "Rock"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/112.png",
+    "dexEntry": "RHYDON’s horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This POKéMON’s hide is extremely tough. Even direct cannon hits don’t leave a scratch."
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/113.png",
+    "dexEntry": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away."
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "type": ["Grass"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/114.png",
+    "dexEntry": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long."
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/115.png",
+    "dexEntry": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down."
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/116.png",
+    "dexEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/117.png",
+    "dexEntry": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder."
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/118.png",
+    "dexEntry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/119.png",
+    "dexEntry": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head."
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/120.png",
+    "dexEntry": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!"
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "type": ["Water", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/121.png",
+    "dexEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "type": ["Psychic", "Fairy"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/122.png",
+    "dexEntry": "Its fingertips emit a peculiar force field that hardens air to create an actual wall."
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "type": ["Bug", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/123.png",
+    "dexEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon’s scythes are so effective, they can slice through thick logs in one wicked stroke."
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "type": ["Ice", "Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/124.png",
+    "dexEntry": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/125.png",
+    "dexEntry": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue."
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/126.png",
+    "dexEntry": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly."
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "type": ["Bug"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/127.png",
+    "dexEntry": "Its two long pincer horns are powerful. Once they grip an enemy, they won’t release until the foe is torn."
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/128.png",
+    "dexEntry": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed."
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/129.png",
+    "dexEntry": "MAGIKARP is a pathetic excuse for a POKéMON that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it."
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "type": ["Water", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/130.png",
+    "dexEntry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "type": ["Water", "Ice"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/131.png",
+    "dexEntry": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain."
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/132.png",
+    "dexEntry": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/133.png",
+    "dexEntry": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve."
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "type": ["Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/134.png",
+    "dexEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water."
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "type": ["Electric"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/135.png",
+    "dexEntry": "It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles."
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "type": ["Fire"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/136.png",
+    "dexEntry": "When it catches prey or finds berries, it breathes fire on them until they’re well done, and then it gobbles them up."
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/137.png",
+    "dexEntry": "It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true."
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "type": ["Rock", "Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/138.png",
+    "dexEntry": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along."
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "type": ["Rock", "Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/139.png",
+    "dexEntry": "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey."
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "type": ["Rock", "Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/140.png",
+    "dexEntry": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell."
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "type": ["Rock", "Water"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/141.png",
+    "dexEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "type": ["Rock", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/142.png",
+    "dexEntry": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times."
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "type": ["Normal"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png",
+    "dexEntry": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play."
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "type": ["Ice", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/144.png",
+    "dexEntry": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost."
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "type": ["Electric", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/145.png",
+    "dexEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts."
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "type": ["Fire", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/146.png",
+    "dexEntry": "Legendary bird POKéMON. It is said to migrate from the south along with the spring."
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "type": ["Dragon"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/147.png",
+    "dexEntry": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer."
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "type": ["Dragon"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/148.png",
+    "dexEntry": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail."
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "type": ["Dragon", "Flying"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/149.png",
+    "dexEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore."
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/150.png",
+    "dexEntry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart."
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "type": ["Psychic"],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/151.png",
+    "dexEntry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+  }
+]
