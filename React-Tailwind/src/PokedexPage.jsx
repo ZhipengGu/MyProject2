@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import allPokemon from "./pokemon.json";
 import { useEffect, useState } from "react";
-// import styles from "./PokedexPage.module.css";
+
 
 
 /**
@@ -59,47 +59,3 @@ function PlaceholderImage() {
 }
 
 
-
-/**
- * This part is from Lab 2, only used for comparison
- 
-export default function PokedexPage() {
-  const { id } = useParams(); // Extracting id from URL path
-  const [isLoaded, setLoaded] = useState(false);
-  const [imgSrc, setImgSrc] = useState(undefined);
-  const pokemon = allPokemon.find((mon) => mon.id === parseInt(id)); // Parsing id to integer
-
-  // This effect will, whenever the id changes, set "loaded" back to false before loading the new image.
-  // This is the only way I could figure out how to make this thing work.
-  useEffect(() => {
-    if (imgSrc !== pokemon.imageUrl) {
-      setLoaded(false);
-      setImgSrc(pokemon.imageUrl);
-    }
-  }, [id]);
-
-  return (
-    <div className={styles.container}>
-      <h1>{pokemon.name}</h1>
-
-      {!isLoaded && <PlaceholderImage />}
-
-      <img
-        className={styles.dexImage}
-        style={{ display: isLoaded ? undefined : "none" }}
-        src={imgSrc}
-        onLoadStart
-        onLoad={() => setLoaded(true)}
-      />
-
-      <p>{pokemon.dexEntry}</p>
-    </div>
-  );
-}
-
-
-function PlaceholderImage() {
-  return <img className={styles.placeholderImage} src="white-pokeball.png" />;
-}
-
-*/

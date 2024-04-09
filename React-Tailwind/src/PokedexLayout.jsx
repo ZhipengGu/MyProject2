@@ -1,7 +1,7 @@
 import { NavLink, Outlet } from "react-router-dom";
 
 import pokemon from "./pokemon.json";
-// import styles from "./PokedexLayout.module.css"; 
+
 
 
 /**
@@ -55,49 +55,3 @@ function ListItem({ pokemon }) {
 
 
 
-/**
- * This part is the code from Lab two. Only used for comparison
- 
- 
-export default function PokedexLayout() {
-  return (
-    <div className={styles.container}>
-      <div className={styles.dexContainer}>
-        <PokemonList />
-
-        <div className={styles.dexView}>
-          <div>
-            <Outlet />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-
-function PokemonList() {
-  return (
-    <div className={styles.list}>
-      <div>
-        {pokemon.map((pokemon) => (
-          <ListItem key={pokemon.name} pokemon={pokemon} />
-        ))}
-      </div>
-    </div>
-  );
-}
-
-
-function ListItem({ pokemon }) {
-  return (
-    <NavLink to={`/${pokemon.id.toString()}`} 
-    className={({ isActive }) => (isActive ? `${styles.listItem} ${styles.active}` : styles.listItem)}
-    >
-
-    <img src="pokeball.png" />
-    <span>{pokemon.name}</span>
-  </NavLink>
-  );
-}
-*/
